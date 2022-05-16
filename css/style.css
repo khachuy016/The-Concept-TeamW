@@ -2474,5 +2474,9 @@ button {
 	font-weight: 700;
 	font-size: 24px;
 }
-
+@media screen and (max-width:478px){
+	.project, .project-1{
+		padding-right: 15px;
+	}
+}
 
